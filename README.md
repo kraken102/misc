@@ -1,25 +1,25 @@
-# Miscellaneous PowerShell & Research Scripts
+# Miscellaneous Research & Ideas
 
-This repository is a collection of random experiments, proof-of-concepts, and half-baked ideas.  
-Anything that doesn’t have a home yet usually ends up here. Some of it may turn into a proper project, some of it might just stay as a scratchpad.
+This repository is a collection of random experiments, sketches, diagrams, and proof-of-concepts.  
+If I’m exploring something new and it doesn’t have its own dedicated repo yet, it usually ends up here.  
 
 ---
 
 ## Contents
-- 📝 **Unsorted Scripts** → Quick utilities, tests, and throwaway code.  
-- 🔐 **Proof of Concepts** → Early experiments (e.g., security, networking, automation).  
-- 🧪 **Learning Notes** → Things I wrote while exploring new concepts.  
+- 🧩 **Random Ideas** → half-formed concepts, notes, and thought experiments.  
+- 📝 **Diagrams** → visualizations (like the TOR key exchange sketch).  
+- 💻 **Scripts & Snippets** → quick code tests or proof-of-concepts.  
 
 ---
 
 ## Disclaimer
 ⚠️ Everything here is provided **for research and educational purposes only**.  
 Use at your own risk. The author is **not responsible** for any misuse, damage, or consequences.  
-Always **review the code** before running it, and never execute scripts blindly on a production system.  
+Always **review and understand** before using anything from this repo.  
 
 ---
 
 ## Notes
-- This repo is a work in progress and will change often.  
-- Don’t expect clean, polished code — it’s more like a sandbox of ideas.  
-- Contributions, feedback, or crazy ideas are always welcome.
+- This is a **work in progress** repo — things may change, break, or disappear without warning.  
+- It’s more of a sandbox than a polished project.  
+- If something here sparks your interest, feel free to adapt or expand on it.
